@@ -30,7 +30,7 @@ I don't prefer online environment because this is quite uncomfortable to use and
 ## Grammar Reference
 
 - [씹어먹는 모두의 코딩](https://modoocode.com/135)
-	- 
+	- https://github.com/kev0960/ModooCode/raw/master/book/cpp/main.pdf
 
 - [http://opendatastructures.org/ods-cpp/](http://opendatastructures.org/ods-cpp/)
 
@@ -52,6 +52,6 @@ int main(){
 }
 ~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk2ODUxMTgsLTg4MjI2NTY2NiwzOT
-k0Nzg4ODJdfQ==
+eyJoaXN0b3J5IjpbNzYxNzU4MjAxLC04ODIyNjU2NjYsMzk5ND
+c4ODgyXX0=
 -->
