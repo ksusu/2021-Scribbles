@@ -39,7 +39,12 @@ I don't prefer online environment because this is quite uncomfortable to use and
 ---
 # Basic Grammar
 ## Input / Output
-
+~~~cpp
+using namespace std;
+int main(){
+	cout<<"Hello"<<endl;
+}
+~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2MjY1MTkyLDM5OTQ3ODg4Ml19
+eyJoaXN0b3J5IjpbLTMyMzgxMjk2LDM5OTQ3ODg4Ml19
 -->
