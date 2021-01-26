@@ -34,7 +34,7 @@ I don't prefer online environment because this is quite uncomfortable to use and
 
 - [http://opendatastructures.org/ods-cpp/](http://opendatastructures.org/ods-cpp/)
 
- - [Google CPP ](https://google.github.io/styleguide/cppguide.html)
+ - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 ## Code Challenges
 
 - [Baekjoon](https://www.acmicpc.net/)
@@ -52,6 +52,6 @@ int main(){
 }
 ~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTI2NTcxOSwtODgyMjY1NjY2LDM5OT
+eyJoaXN0b3J5IjpbMTgxNTA5MDk5MCwtODgyMjY1NjY2LDM5OT
 Q3ODg4Ml19
 -->
