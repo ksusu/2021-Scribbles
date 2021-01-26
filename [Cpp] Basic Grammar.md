@@ -6,7 +6,7 @@ This is basic grammar books for me **(ksusu)**.
 
 I thought I learn quite much about the *C++*, but it erase from my head in an instant moment. This is my **reminder** of *C++*.
 
-## Environment for C++
+# Environment for C++
 
 ### Offline
 I usually used the **IDE** for developing some kinds of little project.
@@ -36,7 +36,10 @@ I don't prefer online environment because this is quite uncomfortable to use and
 - [Baekjoon](https://www.acmicpc.net/)
 	- ID: holywater
 
-## Basic Grammers
+---
+# Basic Grammar
+## Input / Output
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5NDc4ODgyXX0=
+eyJoaXN0b3J5IjpbMjg2MjY1MTkyLDM5OTQ3ODg4Ml19
 -->
