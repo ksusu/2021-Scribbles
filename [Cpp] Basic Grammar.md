@@ -29,7 +29,10 @@ I don't prefer online environment because this is quite uncomfortable to use and
  
 ## Grammar Reference
 
-차차 찾아볼게요
+- [씹어먹는 모두의 코딩](https://modoocode.com/135)
+	- PDF 파일로 이루어져 있음
+
+
  
 ## Code Challenges
 
@@ -48,5 +51,5 @@ int main(){
 }
 ~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODUwODAzMzEsMzk5NDc4ODgyXX0=
+eyJoaXN0b3J5IjpbLTg4MjI2NTY2NiwzOTk0Nzg4ODJdfQ==
 -->
