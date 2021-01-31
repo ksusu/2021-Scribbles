@@ -28,8 +28,9 @@
 -   파일 생성 : **touch**
 
 ### TMI
-- dir path **~** : 시작 dir 위치 (절대경로: C:\Users\[Specified User])
-- 
+- dir path **~** : 시작 dir 위치 (절대경로: C:\Users\[Specified User], 사용자 폴더에서 시작)
+- 절대경로
+	- **/** 로 시작하는 경로이고 이 위치는 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk5NTIwOTAsMTc1NTA3NjAxNl19
+eyJoaXN0b3J5IjpbMTAzNDk0ODIyMywxNzU1MDc2MDE2XX0=
 -->
