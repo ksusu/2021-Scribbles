@@ -30,7 +30,9 @@
 ### TMI
 - dir path **~** : 시작 dir 위치 (절대경로: C:\Users\[Specified User], 사용자 폴더에서 시작)
 - 절대경로
-	- **/** 로 시작하는 경로이고 이 위치는 
+	- **/** 로 시작하는 경로이고 이 위치는 C 드라이브 보다 위에 있음
+- 상대경로
+	- 상대적인 경롱
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDk0ODIyMywxNzU1MDc2MDE2XX0=
+eyJoaXN0b3J5IjpbLTE0NTUwMDYyMCwxNzU1MDc2MDE2XX0=
 -->
