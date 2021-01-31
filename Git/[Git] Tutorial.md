@@ -23,7 +23,9 @@
 -   파일 삭제 : **rm**
 -   파일 생성 : **touch**
 
-### 
+### TMI
+- dir path **~** : 시작 dir 위치
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzUxNTUzMDQsMTc1NTA3NjAxNl19
+eyJoaXN0b3J5IjpbNDIwMjA2ODQ4LDE3NTUwNzYwMTZdfQ==
 -->
