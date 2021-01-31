@@ -28,8 +28,8 @@
 -   파일 생성 : **touch**
 
 ### TMI
-- dir path **~** : 시작 dir 위치
+- dir path **~** : 시작 dir 위치 (절대경로: C:\Users\[Specified User])
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NDU3OTI2MCwxNzU1MDc2MDE2XX0=
+eyJoaXN0b3J5IjpbLTE5OTk5NTIwOTAsMTc1NTA3NjAxNl19
 -->
