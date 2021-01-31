@@ -26,7 +26,6 @@
 -   디렉터리 생성 : **mkdir**
 -   파일 삭제 : **rm**
 -   파일 생성 : **touch**
-
 ### TMI
 - dir path **~** : 시작 dir 위치 (절대경로: C:\Users\[Specified User], 사용자 폴더에서 시작)
 - 절대경로
@@ -35,6 +34,13 @@
 	- 상대적인 경로이고 **/**가 아닌 것으로 시작 (ex. **~** or **.**)
 	- **.** : 현재 dir
 	- **.\.**: 상위 dir
+
+## Git Command
+### git config
+git을 깔면 제일 먼저 해야함 안하면 git commit 할 때 오류남
+~~~
+
+~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTQyNzI0NiwxNzU1MDc2MDE2XX0=
+eyJoaXN0b3J5IjpbNTczNTY2OTMzLDE3NTUwNzYwMTZdfQ==
 -->
