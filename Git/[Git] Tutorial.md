@@ -32,7 +32,9 @@
 - 절대경로
 	- **/** 로 시작하는 경로이고 이 위치는 C 드라이브 보다 위에 있음
 - 상대경로
-	- 상대적인 경롱
+	- 상대적인 경로이고 **/**가 아닌 것으로 시작 (ex. **~** or **.**)
+	- **.** : 현재 dir
+	- **.\.**: 상위 dir
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUwMDYyMCwxNzU1MDc2MDE2XX0=
+eyJoaXN0b3J5IjpbLTEwNTQyNzI0NiwxNzU1MDc2MDE2XX0=
 -->
