@@ -12,8 +12,9 @@
 ### Blogs & etc.
 - GIt 설치와 사용법 (https://gbsb.tistory.com/10)
 
-## Git Bash Command
--
+## Git Bash Command (Similar to Linux)
+~~~g
+~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Nzk0NzEyMiwxNzU1MDc2MDE2XX0=
+eyJoaXN0b3J5IjpbLTEyMjY5Mjc4ODEsMTc1NTA3NjAxNl19
 -->
