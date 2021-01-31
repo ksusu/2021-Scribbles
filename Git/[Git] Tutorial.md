@@ -37,10 +37,13 @@
 
 ## Git Command
 ### git config
-git을 깔면 제일 먼저 해야함 안하면 git commit 할 때 오류남
+git을 깔면 제일 먼저 해야함
+안하면 git commit 할 때 오류남
+아마도 commit 할 때 user specification이 필요해서 그런 듯
 ~~~
-
+git config --global user.name "My name"
+git config --global user.email "My email@emai"
 ~~~
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNTY2OTMzLDE3NTUwNzYwMTZdfQ==
+eyJoaXN0b3J5IjpbLTE4MzM3NTUyOSwxNzU1MDc2MDE2XX0=
 -->
